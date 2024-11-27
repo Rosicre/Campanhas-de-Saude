@@ -156,11 +156,13 @@
           aria-labelledby="staticBackdropLabel"
         >
           <div class="offcanvas-header">
-            <a class="logo" href="#"
+            <!-- Logo dentro do Menu Lateral para voltar para o HOME -->
+            <a class="logo" href="{{ url_for('views.home') }}"
               ><img
                 src="{{ url_for('static', filename='images/icons/logo.png') }}"
                 alt="logo"
             /></a>
+
             <button
               type="button"
               class="btn-close"
