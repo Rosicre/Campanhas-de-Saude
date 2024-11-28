@@ -1,12 +1,15 @@
 ESPECIALIDADES = [
     ("clinica geral", "Clínica Geral / Medicina Interna"),
-    ("pediatria", "Pediatria"),
-    ("ginecologia", "Ginecologia"),
-    ("ortopedia", "Ortopedia"),
+    ("epidemiologia", "Epidemiologia"),
+    ("imunologia", "Imunologia"),
+    ("infectologia", "Infectologia"),
     ("dermatologia", "Dermatologia"),
-    ("cardiologia", "Cardiologia"),
     ("neurologia", "Neurologia"),
-    ("oftalmologia", "Oftalmologia"),
     ("psiquiatria", "Psiquiatria"),
-    ("oncologia", "Oncologia")
+    ("oncologia", "Oncologia"),
+    ("pneumologia", "Pneumologia"),
+    ("medicina_preventiva", "Medicina Preventiva e Social"),
+    ("psicologia", "Psicologia"),
+    ("nutrologia", "Nutrologia")
 ]
+
