@@ -1,6 +1,6 @@
 <div id="doc-header" align="center">
 <h1>
-⚕️ Saúde + Solidária ⚕️
+⚕️ Campanhas de Saúde ⚕️
 </h1>
 
 <p>
@@ -18,7 +18,7 @@
 
 ## 💻 Sobre o projeto
 
-Projeto desenvolvido como parte da disciplina Projeto Integrador IV: Desenvolvimento de sistemas orientado a dispositivos móveis e baseados na web.
+Projeto desenvolvido como parte da disciplina Projeto Integrador V: Análise de Soluções Integradas para Organizações.
 
 <div id="tech-stack" align="center">
   
@@ -34,7 +34,14 @@ Projeto desenvolvido como parte da disciplina Projeto Integrador IV: Desenvolvim
 
 ## 🔘 Objetivo do projeto
 
-Temos visto que a saúde preventiva tornou-se uma preocupação global devido a pandemia, o medo de uma nova doença desconhecida está na mente da população. Este projeto visa criar uma ferramenta que ofereça ampla e unificada informação e conscientização sobre saúde preventiva, sem discriminação de idade e gênero. Sendo sáude física ou mental, devemos nos cuidar diariamente, nosso projeto mostrará ao indivíduo como cuidar de si da melhor forma.
+Este projeto tem como objetivo promover campanhas de conscientização sobre temas de saúde pública que afetam diretamente a qualidade de vida da população. Focamos em divulgar informações relevantes e acessíveis sobre os seguintes tópicos:
+
+AIDS: Orientação sobre prevenção, diagnóstico e convivência com o HIV/AIDS.
+Campanha do Sono: Destacar a importância do sono para a saúde física e mental, incentivando hábitos saudáveis.
+Câncer de Pele: Conscientizar sobre os riscos da exposição ao sol e a necessidade de proteção adequada.
+Dengue: Informar sobre a prevenção, combate ao mosquito Aedes aegypti e o impacto da doença.
+Gripe e COVID-19: Esclarecer sobre a importância da vacinação, prevenção e cuidados com essas infecções respiratórias.
+Saúde Mental: Promover a importância do bem-estar emocional e como buscar ajuda em momentos de necessidade.
 
 ## 🎨 Layout
 
