@@ -8,5 +8,8 @@ ESPECIALIDADES = [
     ("neurologia", "Neurologia"),
     ("oftalmologia", "Oftalmologia"),
     ("psiquiatria", "Psiquiatria"),
-    ("oncologia", "Oncologia")
+    ("oncologia", "Oncologia"),
+    ("epidemiologia", "Epidemiologia"),
+    ("infectologia", "Infectologia"),
+    ("imunologia", "Imunologia")
 ]
