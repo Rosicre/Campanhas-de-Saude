@@ -112,14 +112,15 @@
               >
             </li>
             {% endif %}
+
             <li>
-              <button class="dropdown-item" type="button">
+              <a class="dropdown-item" href="{{ url_for('views.contato') }}">
                 <img
                   class="menu-icon"
                   src="{{ url_for('static', filename='images/icons/help.png') }}"
                   alt="ajuda"
                 />
-              </button>
+              </a>
             </li>
           </ul>
         </div>
