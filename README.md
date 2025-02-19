@@ -36,11 +36,11 @@ Projeto desenvolvido como parte da disciplina Projeto Integrador V: Análise de 
 
 Este projeto tem como objetivo promover campanhas de conscientização sobre temas de saúde pública que afetam diretamente a qualidade de vida da população. Focamos em divulgar informações relevantes e acessíveis sobre os seguintes tópicos:
 
-AIDS: Orientação sobre prevenção, diagnóstico e convivência com o HIV/AIDS.
-Campanha do Sono: Destacar a importância do sono para a saúde física e mental, incentivando hábitos saudáveis.
-Câncer de Pele: Conscientizar sobre os riscos da exposição ao sol e a necessidade de proteção adequada.
-Dengue: Informar sobre a prevenção, combate ao mosquito Aedes aegypti e o impacto da doença.
-Gripe e COVID-19: Esclarecer sobre a importância da vacinação, prevenção e cuidados com essas infecções respiratórias.
+AIDS: Orientação sobre prevenção, diagnóstico e convivência com o HIV/AIDS.  
+Campanha do Sono: Destacar a importância do sono para a saúde física e mental, incentivando hábitos saudáveis.  
+Câncer de Pele: Conscientizar sobre os riscos da exposição ao sol e a necessidade de proteção adequada.  
+Dengue: Informar sobre a prevenção, combate ao mosquito Aedes aegypti e o impacto da doença.  
+Gripe e COVID-19: Esclarecer sobre a importância da vacinação, prevenção e cuidados com essas infecções respiratórias.  
 Saúde Mental: Promover a importância do bem-estar emocional e como buscar ajuda em momentos de necessidade.
 
 ## 🎨 Layout
@@ -84,55 +84,6 @@ Abaixo se encontra um diagrama que descreve todas as entidades e relacionamentos
   TZ=America/Sao_Paulo
   ```
 
-## 🛣️ Executando a aplicação
+👥 Colaboradores
 
-- Dentro de `/deploy` execute o Docker Compose com
-
-```bash
-docker compose up -d
-```
-
-Acesse o web GUI a partir da porta mapeada no host em `http://localhost:8888/`.
-
-## 👥 Colaboradores
-
-<div align="center">
-    <table style="width: 100%; border-collapse: collapse; text-align: center;">
-        <tr>
-            <td style="padding: 20px; border: 1px solid #ddd; vertical-align: middle;">
-                <img src="https://avatars.githubusercontent.com/u/95151247?v=4" alt="Guilherme-Soares05" style="display: block; margin: 0 auto; width: 100px; height: 100px;">
-                <a href="https://github.com/Guilherme-Soares05" target="_blank"><p>Guilherme-Soares05</p></a>
-            </td>
-            <td style="padding: 20px; border: 1px solid #ddd; vertical-align: middle;">
-                <img src="https://avatars.githubusercontent.com/u/94906196?v=4" alt="Rosicre" style="display: block; margin: 0 auto; width: 100px; height: 100px;">
-                <a href="https://github.com/Rosicre" target="_blank"><p>Rosicre</p></a>
-            </td>
-            <td style="padding: 20px; border: 1px solid #ddd; vertical-align: middle;">
-                <img src="https://avatars.githubusercontent.com/u/142458518?v=4" alt="mirelaads" style="display: block; margin: 0 auto; width: 100px; height: 100px;">
-                <a href="https://github.com/mirelaads" target="_blank"><p>mirelaads</p></a>
-            </td>
-            <td style="padding: 20px; border: 1px solid #ddd; vertical-align: middle;">
-                <img src="https://avatars.githubusercontent.com/u/86894587?v=4" alt="dkexs" style="display: block; margin: 0 auto; width: 100px; height: 100px;">
-                <a href="https://github.com/dkexs" target="_blank"><p>dkexs</p></a>
-            </td>
-        </tr>
-        <tr>
-            <td style="padding: 20px; border: 1px solid #ddd; vertical-align: middle;">
-                <img src="https://avatars.githubusercontent.com/u/60987344?v=4" alt="PedroBrito22" style="display: block; margin: 0 auto; width: 100px; height: 100px;">
-                <a href="https://github.com/PedroBrito22" target="_blank"><p>PedroBrito22</p></a>
-            </td>
-            <td style="padding: 20px; border: 1px solid #ddd; vertical-align: middle;">
-                <img src="https://avatars.githubusercontent.com/u/115372931?v=4" alt="Rafaelaacg" style="display: block; margin: 0 auto; width: 100px; height: 100px;">
-                <a href="https://github.com/Rafaelaacg" target="_blank"><p>Rafaelaacg</p></a>
-            </td>
-            <td style="padding: 20px; border: 1px solid #ddd; vertical-align: middle;">
-                <img src="https://avatars.githubusercontent.com/u/78533414?v=4" alt="Yoommi" style="display: block; margin: 0 auto; width: 100px; height: 100px;">
-                <a href="https://github.com/Yoommi" target="_blank"><p>Yoommi</p></a>
-            </td>
-            <td style="padding: 20px; border: 1px solid #ddd; vertical-align: middle;">
-                <img src="https://avatars.githubusercontent.com/u/69800107?v=4" alt="timlagolg" style="display: block; margin: 0 auto; width: 100px; height: 100px;">
-                <a href="https://github.com/timlagolg" target="_blank"><p>timlagolg</p></a>
-            </td>
-        </tr>
-    </table>
-</div>
+<div align="center"> <table style="width: 100%; border-collapse: collapse; text-align: center;"> <tr> <td style="padding: 20px; border: 1px solid #ddd; vertical-align: middle;"> <img src="https://avatars.githubusercontent.com/u/95151247?v=4" alt="Guilherme-Soares05" style="display: block; margin: 0 auto; width: 100px; height: 100px;"> <a href="https://github.com/Guilherme-Soares05" target="_blank"><p>Guilherme-Soares05</p></a> </td> <td style="padding: 20px; border: 1px solid #ddd; vertical-align: middle;"> <img src="https://avatars.githubusercontent.com/u/94906196?v=4" alt="Rosicre" style="display: block; margin: 0 auto; width: 100px; height: 100px;"> <a href="https://github.com/Rosicre" target="_blank"><p>Rosicre</p></a> </td> <td style="padding: 20px; border: 1px solid #ddd; vertical-align: middle;"> <img src="https://avatars.githubusercontent.com/u/142458518?v=4" alt="mirelaads" style="display: block; margin: 0 auto; width: 100px; height: 100px;"> <a href="https://github.com/mirelaads" target="_blank"><p>mirelaads</p></a> </td> <td style="padding: 20px; border: 1px solid #ddd; vertical-align: middle;"> <img src="https://avatars.githubusercontent.com/u/86894587?v=4" alt="dkexs" style="display: block; margin: 0 auto; width: 100px; height: 100px;"> <a href="https://github.com/dkexs" target="_blank"><p>dkexs</p></a> </td> </tr> <tr> <td style="padding: 20px; border: 1px solid #ddd; vertical-align: middle;"> <img src="https://avatars.githubusercontent.com/u/60987344?v=4" alt="PedroBrito22" style="display: block; margin: 0 auto; width: 100px; height: 100px;"> <a href="https://github.com/PedroBrito22" target="_blank"><p>PedroBrito22</p></a> </td> <td style="padding: 20px; border: 1px solid #ddd; vertical-align: middle;"> <img src="https://avatars.githubusercontent.com/u/115372931?v=4" alt="Rafaelaacg" style="display: block; margin: 0 auto; width: 100px; height: 100px;"> <a href="https://github.com/Rafaelaacg" target="_blank"><p>Rafaelaacg</p></a> </td> <td style="padding: 20px; border: 1px solid #ddd; vertical-align: middle;"> <img src="https://avatars.githubusercontent.com/u/78533414?v=4" alt="Yoommi" style="display: block; margin: 0 auto; width: 100px; height: 100px;"> <a href="https://github.com/Yoommi" target="_blank"><p>Yoommi</p></a> </td> <td style="padding: 20px; border: 1px solid #ddd; vertical-align: middle;"> <img src="https://avatars.githubusercontent.com/u/69800107?v=4" alt="timlagolg" style="display: block; margin: 0 auto; width: 100px; height: 100px;"> <a href="https://github.com/timlagolg" target="_blank"><p>timlagolg</p></a> </td> </tr> </table> </div> ```
