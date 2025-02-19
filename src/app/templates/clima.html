@@ -1,0 +1,34 @@
+{% extends 'base.html' %} {% block content %}
+<div class="container mt-5">
+  <h1 class="mb-4">Consulta de Clima</h1>
+
+  <form method="POST">
+    <div class="form-group mb-3">
+      <label for="cidade_id">Selecione uma capital:</label>
+      <select name="cidade_id" id="cidade_id" class="form-control">
+        {% for capital in capitais %}
+        <option value="{{ capital.id }}">{{ capital.nome }}</option>
+        {% endfor %}
+      </select>
+    </div>
+    <button type="submit" class="btn btn-primary">Consultar Clima</button>
+  </form>
+
+  {% if previsao %}
+  <div class="mt-5">
+    <h2>Previsão do Tempo</h2>
+    <p><strong>Cidade:</strong> {{ previsao.name }}</p>
+    <p><strong>Estado:</strong> {{ previsao.state }}</p>
+    <p><strong>Data:</strong> {{ previsao.data }}</p>
+    <p><strong>Chance de Chuva:</strong> {{ previsao.chuva }}%</p>
+    <p><strong>Temperatura Mínima:</strong> {{ previsao.temp_min }}°C</p>
+    <p><strong>Temperatura Máxima:</strong> {{ previsao.temp_max }}°C</p>
+  </div>
+  {% elif request.method == 'POST' %}
+  <p class="text-danger">
+    Erro: Não foi possível obter a previsão para a cidade selecionada. Verifique
+    se a cidade está registrada ou tente novamente mais tarde.
+  </p>
+  {% endif %}
+</div>
+{% endblock %}

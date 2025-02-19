@@ -17,6 +17,9 @@ class Config:
 
     BABEL_DEFAULT_LOCALE = 'pt_BR'
 
+    # Desabilita o CSRF
+    WTF_CSRF_ENABLED = False
+
     # TODO: Configurar server de emails para o app eventualmente
     # Configurações de email (exemplo usando SMTP do Gmail)
     # MAIL_SERVER = 'smtp.googlemail.com'

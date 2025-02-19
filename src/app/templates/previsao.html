@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Previsão do Tempo</title>
+  </head>
+  <body>
+    <h1>Previsão do Tempo</h1>
+    <p><strong>Cidade:</strong> {{ previsao.name }}, {{ previsao.state }}</p>
+    <p><strong>Data:</strong> {{ previsao.data }}</p>
+    <p><strong>Chance de chuva:</strong> {{ previsao.chuva }}%</p>
+    <p><strong>Temperatura mínima:</strong> {{ previsao.temp_min }}°C</p>
+    <p><strong>Temperatura máxima:</strong> {{ previsao.temp_max }}°C</p>
+  </body>
+</html>
