@@ -21,15 +21,13 @@
 Projeto desenvolvido como parte da disciplina Projeto Integrador V: Análise de Soluções Integradas para Organizações.
 
 <div id="tech-stack" align="center">
-  
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
-![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)
-![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
-
+  <img src="src/assets/images/html5_logo.svg" alt="HTML" style="width: 40px; height: 30px;">
+  <img src="src/assets/images/css3_logo.svg" alt="CSS" style="width: 40px; height: 30px;">
+  <img src="src/assets/images/js_logo.svg" alt="JavaScript" style="width: 40px; height: 30px;">
+  <img src="src/assets/images/python_logo.svg" alt="Python" style="width: 40px; height: 30px;">
+  <img src="src/assets/images/flask_logo.svg" alt="Flask" style="width: 40px; height: 30px;">
+  <img src="src/assets/images/postgres_logo.svg" alt="Postgres" style="width: 40px; height: 30px;">
+  <img src="src/assets/images/docker_logo.svg" alt="Docker" style="width: 40px; height: 30px;">
 </div>
 
 ## 🔘 Objetivo do projeto
