@@ -16,6 +16,10 @@
 </p>
 </div>
 
+## 🌍 Acesse o projeto online
+
+O projeto está disponível em: [Campanhas de Saúde](https://rosicre.github.io/Campanhas-de-Saude/)
+
 ## 💻 Sobre o projeto
 
 Projeto desenvolvido como parte da disciplina Projeto Integrador V: Análise de Soluções Integradas para Organizações.
@@ -40,6 +44,19 @@ Câncer de Pele: Conscientizar sobre os riscos da exposição ao sol e a necessi
 Dengue: Informar sobre a prevenção, combate ao mosquito Aedes aegypti e o impacto da doença.  
 Gripe e COVID-19: Esclarecer sobre a importância da vacinação, prevenção e cuidados com essas infecções respiratórias.  
 Saúde Mental: Promover a importância do bem-estar emocional e como buscar ajuda em momentos de necessidade.
+
+## 🏥 Campanhas de Saúde
+
+Nosso projeto tem o objetivo de conscientizar a população sobre a importância da saúde por meio de campanhas informativas.
+
+### 📢 Nossas Campanhas:
+
+- **AIDS**: Prevenção, diagnóstico e convivência com o HIV/AIDS.
+- **Campanha do Sono**: A importância de um sono saudável para a qualidade de vida.
+- **Câncer de Pele**: Prevenção e cuidados contra o câncer de pele.
+- **Dengue**: Como evitar a proliferação do mosquito transmissor da dengue.
+- **Gripe e Covid**: Medidas preventivas para reduzir os riscos de contaminação.
+- **Saúde Mental**: Conscientização sobre o bem-estar psicológico e emocional.
 
 ## 🎨 Layout
 
@@ -95,3 +112,16 @@ Acesse a interface web da aplicação através da porta mapeada no host em http:
 👥 Colaboradores
 
 <div align="center"> <table style="width: 100%; border-collapse: collapse; text-align: center;"> <tr> <td style="padding: 20px; border: 1px solid #ddd; vertical-align: middle;"> <img src="https://avatars.githubusercontent.com/u/95151247?v=4" alt="Guilherme-Soares05" style="display: block; margin: 0 auto; width: 100px; height: 100px;"> <a href="https://github.com/Guilherme-Soares05" target="_blank"><p>Guilherme-Soares05</p></a> </td> <td style="padding: 20px; border: 1px solid #ddd; vertical-align: middle;"> <img src="https://avatars.githubusercontent.com/u/94906196?v=4" alt="Rosicre" style="display: block; margin: 0 auto; width: 100px; height: 100px;"> <a href="https://github.com/Rosicre" target="_blank"><p>Rosicre</p></a> </td> <td style="padding: 20px; border: 1px solid #ddd; vertical-align: middle;"> <img src="https://avatars.githubusercontent.com/u/142458518?v=4" alt="mirelaads" style="display: block; margin: 0 auto; width: 100px; height: 100px;"> <a href="https://github.com/mirelaads" target="_blank"><p>mirelaads</p></a> </td> <td style="padding: 20px; border: 1px solid #ddd; vertical-align: middle;"> <img src="https://avatars.githubusercontent.com/u/86894587?v=4" alt="dkexs" style="display: block; margin: 0 auto; width: 100px; height: 100px;"> <a href="https://github.com/dkexs" target="_blank"><p>dkexs</p></a> </td> </tr> <tr> <td style="padding: 20px; border: 1px solid #ddd; vertical-align: middle;"> <img src="https://avatars.githubusercontent.com/u/60987344?v=4" alt="PedroBrito22" style="display: block; margin: 0 auto; width: 100px; height: 100px;"> <a href="https://github.com/PedroBrito22" target="_blank"><p>PedroBrito22</p></a> </td> <td style="padding: 20px; border: 1px solid #ddd; vertical-align: middle;"> <img src="https://avatars.githubusercontent.com/u/115372931?v=4" alt="Rafaelaacg" style="display: block; margin: 0 auto; width: 100px; height: 100px;"> <a href="https://github.com/Rafaelaacg" target="_blank"><p>Rafaelaacg</p></a> </td> <td style="padding: 20px; border: 1px solid #ddd; vertical-align: middle;"> <img src="https://avatars.githubusercontent.com/u/78533414?v=4" alt="Yoommi" style="display: block; margin: 0 auto; width: 100px; height: 100px;"> <a href="https://github.com/Yoommi" target="_blank"><p>Yoommi</p></a> </td> <td style="padding: 20px; border: 1px solid #ddd; vertical-align: middle;"> <img src="https://avatars.githubusercontent.com/u/69800107?v=4" alt="timlagolg" style="display: block; margin: 0 auto; width: 100px; height: 100px;"> <a href="https://github.com/timlagolg" target="_blank"><p>timlagolg</p></a> </td> </tr> </table> </div>
+
+👥 **Participação dos Colaboradores**
+
+| Colaborador                                                 | Função                                            |
+| ----------------------------------------------------------- | ------------------------------------------------- |
+| [Guilherme-Soares05](https://github.com/Guilherme-Soares05) | Novas funcionalidades de Banco de Dados           |
+| [Rosicre](https://github.com/Rosicre)                       | Novas funcionalidades de Testes, Página de Dengue |
+| [mirelaads](https://github.com/mirelaads)                   | Página de Campanhas do Sono                       |
+| [dkexs](https://github.com/dkexs)                           | Página de Gripe/COVID                             |
+| [PedroBrito22](https://github.com/PedroBrito22)             | Edição de vídeo, Estruturação do README.me        |
+| [Rafaelaacg](https://github.com/Rafaelaacg)                 | Página de AIDS                                    |
+| [Yoommi](https://github.com/Yoommi)                         | Página de Saúde Mental                            |
+| [timlagolg](https://github.com/timlagolg)                   | Página de Câncer de pele                          |
