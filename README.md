@@ -117,11 +117,11 @@ Acesse a interface web da aplicação através da porta mapeada no host em http:
 
 | Colaborador                                                 | Função                                            |
 | ----------------------------------------------------------- | ------------------------------------------------- |
-| [Guilherme-Soares05](https://github.com/Guilherme-Soares05) | Novas funcionalidades de Banco de Dados           |
-| [Rosicre](https://github.com/Rosicre)                       | Novas funcionalidades de Testes, Página de Dengue |
+| [Guilherme-Soares05](https://github.com/Guilherme-Soares05) | Novas Funcionalidades de Banco de Dados           |
+| [Rosicre](https://github.com/Rosicre)                       | Novas Funcionalidades de Testes, Página de Dengue |
 | [mirelaads](https://github.com/mirelaads)                   | Página de Campanhas do Sono                       |
-| [dkexs](https://github.com/dkexs)                           | Página de Gripe/COVID                             |
-| [PedroBrito22](https://github.com/PedroBrito22)             | Edição de vídeo, Estruturação do README.me        |
+| [dkexs](https://github.com/dkexs)                           | Página de Saúde Mental                            |
+| [PedroBrito22](https://github.com/PedroBrito22)             | Edição de Vídeo, Estruturação do README.me        |
 | [Rafaelaacg](https://github.com/Rafaelaacg)                 | Página de AIDS                                    |
-| [Yoommi](https://github.com/Yoommi)                         | Página de Câncer de Pele
-| [timlagolg](https://github.com/timlagolg)                   | Página de Câncer de pele                          |
+| [Yoommi](https://github.com/Yoommi)                         | Página de Câncer de Pele                          |
+| [timlagolg](https://github.com/timlagolg)                   | Página de Gripe/COVID                             |
