@@ -123,5 +123,5 @@ Acesse a interface web da aplicação através da porta mapeada no host em http:
 | [dkexs](https://github.com/dkexs)                           | Página de Gripe/COVID                             |
 | [PedroBrito22](https://github.com/PedroBrito22)             | Edição de vídeo, Estruturação do README.me        |
 | [Rafaelaacg](https://github.com/Rafaelaacg)                 | Página de AIDS                                    |
-| [Yoommi](https://github.com/Yoommi)                         | Página de Saúde Mental                            |
+| [Yoommi](https://github.com/Yoommi)                         | Página de Câncer de Pele
 | [timlagolg](https://github.com/timlagolg)                   | Página de Câncer de pele                          |
