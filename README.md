@@ -62,7 +62,13 @@ Nosso projeto tem o objetivo de conscientizar a população sobre a importância
 
 O layout da aplicação está disponível no Figma:
 
-[![Made by Cubos Academy](https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361)](https://www.figma.com/files/project/77994470/%F0%9F%93%84-Templates-para-Projetos%2C-Eventos-e-Cursos?fuid=1110596132085818429)
+[![Acessar Layout no Figma](https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361)](https://www.figma.com/design/siz0rOZz3nr0ofMBjSWhFc/PI-5%C2%BA-Semestre---Campanhas-de-sa%C3%BAde?node-id=0-1&m=dev&t=tUusanhod8HXSUsW-1)
+
+## 📹 Demonstração
+
+[![Assista ao vídeo](https://img.youtube.com/vi/0iHyRhKxD5k/maxresdefault.jpg)](https://www.youtube.com/watch?v=0iHyRhKxD5k)
+
+🔗 [Assista ao vídeo no YouTube](https://www.youtube.com/watch?v=0iHyRhKxD5k)
 
 ## 🎲 Banco de Dados
 
